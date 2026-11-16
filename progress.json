@@ -1,0 +1,18 @@
+{
+  "generated_at": "2026-11-20T22:43:43.855Z",
+  "items": {
+    "problem:1227": {
+      "kind": "problem",
+      "id": "1227",
+      "title": "Numerically Stable Softmax",
+      "difficulty": "medium",
+      "category": "Pytorch",
+      "url": "https://www.deep-ml.com/problems/1227",
+      "path": "problems/1227-numerically-stable-softmax",
+      "first_solved_at": "2026-11-16T19:14:48.617Z",
+      "last_pushed_at": "2026-11-16T19:14:48.617Z",
+      "language": "python",
+      "lines": 18
+    }
+  }
+}
