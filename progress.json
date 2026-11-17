@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-20T22:43:43.855Z",
+  "generated_at": "2026-11-20T22:43:45.932Z",
   "items": {
     "problem:1227": {
       "kind": "problem",
@@ -13,6 +13,32 @@
       "last_pushed_at": "2026-11-16T19:14:48.617Z",
       "language": "python",
       "lines": 18
+    },
+    "problem:945": {
+      "kind": "problem",
+      "id": "945",
+      "title": "Token Embedding Lookup Table",
+      "difficulty": "easy",
+      "category": "Deep Learning",
+      "url": "https://www.deep-ml.com/problems/945",
+      "path": "problems/0945-token-embedding-lookup-table",
+      "first_solved_at": "2026-11-17T21:16:17.446Z",
+      "last_pushed_at": "2026-11-17T21:16:17.446Z",
+      "language": "python",
+      "lines": 11
+    },
+    "problem:1": {
+      "kind": "problem",
+      "id": "1",
+      "title": "Matrix-Vector Dot Product",
+      "difficulty": "easy",
+      "category": "Linear Algebra",
+      "url": "https://www.deep-ml.com/problems/1",
+      "path": "problems/0001-matrix-vector-dot-product",
+      "first_solved_at": "2026-11-17T21:21:08.769Z",
+      "last_pushed_at": "2026-11-17T21:21:08.769Z",
+      "language": "python",
+      "lines": 14
     }
   }
 }
