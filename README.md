@@ -2,7 +2,7 @@
 
 My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solution here was written by hand.
 
-**3** solved · 3 problems · 0 labs · 0 math
+**4** solved · 4 problems · 0 labs · 0 math
 
 ![Coverage](./coverage.svg)
 
@@ -12,6 +12,7 @@ My machine learning practice from [Deep-ML](https://www.deep-ml.com). Every solu
 
 | | Difficulty | Solved | |
 | --- | --- | --- | --- |
+| [Dot Product Calculator](https://www.deep-ml.com/problems/83) | easy | 2026-11-18 | [solution](problems/0083-dot-product-calculator) |
 | [Matrix-Vector Dot Product](https://www.deep-ml.com/problems/1) | easy | 2026-11-17 | [solution](problems/0001-matrix-vector-dot-product) |
 | [Token Embedding Lookup Table](https://www.deep-ml.com/problems/945) | easy | 2026-11-17 | [solution](problems/0945-token-embedding-lookup-table) |
 | [Numerically Stable Softmax](https://www.deep-ml.com/problems/1227) | medium | 2026-11-16 | [solution](problems/1227-numerically-stable-softmax) |
